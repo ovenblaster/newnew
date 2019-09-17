@@ -1,0 +1,15 @@
+The CRON job date format
+
+1	minute			0-59 or *
+2	hour			0-23 or *
+3	day of the month	1-31 or *
+4	month			1-12 or *
+5	day of the week		0-7 or *
+
+example cron time string 0 10 15 * * . This command would execute on the 15th day of each month at 10:00 am UTC.
+
+0 0 * * * run a job every day at midnight.
+
+5 2 2 1 5  at 2:05 on 2nd day of the month and on friday in january
+
+

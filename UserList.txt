@@ -1,0 +1,67 @@
+15 Users Listed by Last Name, First Name, Phone ext, Title
+
+Toolman, Tim, 0944, Engineer Manager
+White, Betty, 0985, Senior HR Manager
+Schwartz, Martin, 0952, Number Cruncher
+Holmes, Shirtlock, 0953, Check Writer
+Watts, Megan, 0986, HR Assistant
+Tesla, Nikola, 0943, Junior Engineer
+Ford, Steve, 0945, Engineer
+Tolstoy, Leonardo, 0925, Assistant
+Banner, Steve, 0930, Salesman
+Allen, Tom, 0931, Salesman
+Roberts, Cody, 0987, HR Manager
+Wallace, Jim, 0947, Engineer
+Shorts, James, 0932, Senior Engineer
+Walker, Clay, 0932, Sales Manager
+Long, Shorty, 0955, Plant Manager
+
+Groups
+
+Engineering
+Sales
+Human Resources
+Finance
+Administrators
+
+Users to Groups
+
+Engineering
+
+Toolman, Tim
+Tesla, Nikola
+Ford, Steve
+Wallace, Jim
+Shorts, James
+Long, Shorty
+
+Human Resources
+
+White, Betty
+Roberts, Cody
+Tolstoy, Leonardo
+
+Sales
+
+Banner, Steve
+Allen, Tom
+Walker, Clay
+Long, Shorty
+
+Finance
+
+Schwartz, Martin
+Holmes, Sherlock
+Long, Shorty
+
+Administrators
+
+White, Betty
+Long, Shorty
+
+File Shares
+
+Engineers Files
+Finance Files
+Sales Files
+

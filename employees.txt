@@ -1,0 +1,50 @@
+15 Users Listed by Last Name, First Name, Phone ext, Title
+
+Cash, John, 0704, Art Director
+Stapleton, Chris, 0703, Music Director
+Cornell, Chris, 0705, Creative Director
+Cobain, Kurt, 0707, Artist
+Carroll, Steve, 0710, Executive Director
+Long, Taylor, 0730, HR Admin
+Meyers, Kawana, 0731, HR Assistant
+Cooley, Alysha, 0732, HR Manager
+Whittington, Todd, 0740, Operations Manager
+Graham, Spencer, 0750, General Manager
+Connell, Markus, 0742, Shift Leader
+Wiggins, Fred, 0743, Shift Leader
+Patterson, Jake, 0744, Finance Manager
+Mercury, Freddie, 0777, Machine Operator
+Love, Lucy, 0733, Sales Manager
+
+Groups
+
+Marketing
+Sales
+Finance
+Operations
+Human Resources
+
+Users to Groups
+
+Marketing
+Cash, John
+Stapleton, Chris
+Cornell, Chris
+Cobain, Kurt
+Graham, Spencer
+
+Sales
+Love, Lucy
+Graham, Spencer
+
+Finance
+Graham, Spencer
+Patterson, Jake
+
+Operations
+Graham, Spencer
+Whittington, Todd
+Connell, Markus
+Wiggins, Fred
+Mercury, Freddie
+Cooley, Alysha
